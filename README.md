@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">I am a full-stack developer and corporate strategy manager, currently undertaking LeWagon's <a href="https://www.lewagon.com/web-development-course">Web Development and AI Bootcamp</a>.</p>
+<p align="left">I am a full-stack developer and corporate strategy manager, graduated from LeWagon's <a href="https://www.lewagon.com/web-development-course">Web Development and AI Bootcamp</a> and currently undertaking Harvard's CS50 Programming Course</p>
 
 ###
 
-<p align="left"><b>Corporate Strategy Manager turned Software Developer</b>. After a successful career in the aviation industry, I've embarked on a lifelong ambition to become a software developer, aiming to create meaningful products that will shape the future.<br><br>With a strong foundation in analytical and data-driven decision-making from my MSc and BSc in Air Transport Management, I'm now channeling these skills into technology, bringing a unique perspective to software development. I’m passionate about leveraging my diverse experience to contribute to innovative solutions in the tech space.</p>
+<p align="left"><b>Corporate Strategy Manager turned Software Developer</b>. After a successful career in the aviation and loyalty industries, I've embarked on a lifelong ambition to become a software developer, aiming to create meaningful products that will shape the future.<br><br>With a strong foundation in analytical and data-driven decision-making from my MSc and BSc in Air Transport Management, I'm now channeling these skills into technology, bringing a unique perspective to software development. I’m passionate about leveraging my diverse experience to contribute to innovative solutions in the tech space.</p>
 
 ###
 
