@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a full-stack developer and corporate strategy manager, graduated from LeWagon's <a href="https://www.lewagon.com/web-development-course">Web Development and AI Bootcamp</a> and currently undertaking Harvard's CS50 Programming Course</p>
+<p align="left">I am a full-stack developer and corporate strategy manager, graduated from LeWagon's <a href="https://www.lewagon.com/web-development-course">Web Development and AI Bootcamp</a> and Harvard's CS50 Programming Course</p>
 
 ###
 
