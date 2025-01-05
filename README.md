@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📍 Living and working in London 🇬🇧. Formerly: Dublin 🇮🇪, Lisbon 🇵🇹, Sao Paulo 🇧🇷.<br><br>🗣️ Fluent in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Portuguese 🇵🇹, and Spanish 🇪🇸.<br><br>👩‍💻 Favourite stack: Ruby (on Rails), Type/JavaScript, PostrgreSQL and SQLite, HTML5/CSS3</p>
+<p align="left">📍 Living and working in London 🇬🇧. Formerly: Dublin 🇮🇪, Lisbon 🇵🇹, Sao Paulo 🇧🇷.<br><br>🗣️ Fluent in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Portuguese 🇵🇹, and Spanish 🇪🇸.<br><br>👩‍💻 Favourite stack: Python, Ruby (on Rails), Type/JavaScript, PostrgreSQL and SQLite, HTML5/CSS3</p>
 
 ###
 
