@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><b>I am growth and Strategy Manager with extensive experience in corporate strategy and management, specialising in the aviation and loyalty currency industries. I hold an MSc in Management and technical training in full-stack software development and programming logic, enabling me to combine strategic vision with technical expertise to deliver innovative, scalable, and results-driven solutions.</p>
+<p align="left">I am growth and Strategy Manager with extensive experience in corporate strategy and management, specialising in the aviation and loyalty currency industries. I hold an MSc in Management and technical training in full-stack software development and programming logic, enabling me to combine strategic vision with technical expertise to deliver innovative, scalable, and results-driven solutions.</p>
 
 ###
 
