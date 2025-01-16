@@ -6,11 +6,7 @@
 
 ###
 
-<p align="left">I am a full-stack developer and corporate strategy manager, graduated from LeWagon's <a href="https://www.lewagon.com/web-development-course">Web Development and AI Bootcamp</a> and Harvard's CS50 Programming Course</p>
-
-###
-
-<p align="left"><b>Corporate Strategy Manager turned Software Developer</b>. After a successful career in the aviation and loyalty industries, I've embarked on a lifelong ambition to become a software developer, aiming to create meaningful products that will shape the future.<br><br>With a strong foundation in analytical and data-driven decision-making from my MSc and BSc in Air Transport Management, I'm now channeling these skills into technology, bringing a unique perspective to software development. I’m passionate about leveraging my diverse experience to contribute to innovative solutions in the tech space.</p>
+<p align="left"><b>I am growth and Strategy Manager with extensive experience in corporate strategy and management, specialising in the aviation and loyalty currency industries. I hold an MSc in Management and technical training in full-stack software development and programming logic, enabling me to combine strategic vision with technical expertise to deliver innovative, scalable, and results-driven solutions.</p>
 
 ###
 
