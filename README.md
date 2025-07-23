@@ -6,11 +6,27 @@
 
 ###
 
-<p align="left">I am <b>Growth and Strategy Manager</b> with extensive experience in corporate strategy and management, specialising in the aviation and loyalty currency industries. I hold an MSc in Management and technical training in <b>Full-Stack Software Development and Programming Logic</b>, enabling me to combine strategic vision with technical expertise to deliver innovative, scalable, and results-driven solutions.</p>
+<p align="left">
+  I am a <b>Growth and Strategy Manager</b> and <b>QA Software Engineer</b> with extensive experience in corporate strategy, management, and recently, software quality assurance. Combining strategic vision with strong technical expertise in software development, automated testing, and performance engineering.
+</p>
+
+<p align="left">
+  Holding an MSc in Management alongside technical training in <b>Full-Stack Software Development</b>, I am proficient in both the business and engineering sides of product delivery. Skilled in <b>Python</b>, <b>Java</b>, <b>Ruby (on Rails) </b> and <b>Scala</b>, I leverage modern tools and methodologies to ensure top-quality software.
+</p>
+
+<p align="left">
+  I am ISTQB certified (International Software Testing Qualifications Board), equipped with hands-on experience in automation frameworks like <b>Selenium</b>, behaviour-driven development (BDD) with <b>Cucumber</b>, performance testing with <b>Gatling</b>, functional testing with <b>Bruno</b>, and strong expertise in software testing best practices.
+</p>
 
 ###
 
-<p align="left">📍 Living and working in London 🇬🇧. Formerly: Dublin 🇮🇪, Lisbon 🇵🇹, Sao Paulo 🇧🇷<br><br>🗣️ Fluent in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Portuguese 🇵🇹<br><br>👩‍💻 Favourite stack: Python, Ruby (on Rails), Type/JavaScript, PostrgreSQL and SQLite, HTML5/CSS3</p>
+<p align="left">
+  📍 Living and working in London 🇬🇧<br/>
+  Formerly: Dublin 🇮🇪, Lisbon 🇵🇹, Sao Paulo 🇧🇷<br/><br/>
+  🗣️ Fluent in English and Portuguese <br/><br/>
+  💻 QA Tools & Languages: Scala, Java, Selenium, Gatling, Cucumber, Bruno
+  👩‍💻 Others: Python, Ruby(on Rails), TypeScript/JavaScript, PostgreSQL, SQLite, HTML5/CSS3<br/>
+</p>
 
 ###
 
@@ -23,6 +39,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -46,6 +66,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+</div>
+
+###
+
+<h3 align="left">QA & Testing Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-original.svg" height="40" alt="gatling logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/brusdo/icons/main/bruno.svg" height="40" alt="bruno logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/ISTQB_logo.svg" height="40" alt="istqb logo" />
 </div>
 
 ###
