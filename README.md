@@ -81,10 +81,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/bruno-icon.png" height="40" alt="bruno logo" />
+  <img src="https://docs.usebruno.com/bruno.png" height="40" alt="bruno logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/ISTQB_logo.svg" height="40" alt="istqb logo" />
+  <img src="https://tecnovy.com/uploads/editor/images/board/istqb_logo_4k.webp" height="40" alt="istqb logo" />
 </div>
+
+
+
 
 ###
 
