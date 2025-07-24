@@ -24,7 +24,7 @@
   📍 Living and working in London 🇬🇧<br/>
   Formerly: Dublin 🇮🇪, Lisbon 🇵🇹, Sao Paulo 🇧🇷<br/><br/>
   🗣️ Fluent in English and Portuguese <br/><br/>
-  💻 QA Tools & Languages: Scala, Java, Selenium, Gatling, Cucumber, Bruno
+  💻 QA Tools & Languages: Scala, Java, Selenium, Gatling, Cucumber, Bruno<br/>
   👩‍💻 Others: Python, Ruby(on Rails), TypeScript/JavaScript, PostgreSQL, SQLite, HTML5/CSS3<br/>
 </p>
 
