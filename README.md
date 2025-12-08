@@ -7,27 +7,38 @@
 ###
 
 <p align="left">
-  I am a <b>Growth and Strategy Manager</b> and <b>QA Software Engineer</b> with extensive experience in corporate strategy, management, and recently, software quality assurance. Combining strategic vision with strong technical expertise in software development, automated testing, and performance engineering.
+  QA Software Engineer and Strategy Professional with a unique mix of technical depth and commercial insight. Currently working at <b>Mercator Digital</b>, a top UK digital consultancy, where I specialise in test automation, CI/CD, and end-to-end quality assurance for large-scale digital transformation projects, including confidential UK Government work.
 </p>
 
 <p align="left">
-  Holding an MSc in Management alongside technical training in <b>Full-Stack Software Development</b>, I am proficient in both the business and engineering sides of product delivery. Skilled in <b>Python</b>, <b>Java</b>, <b>Ruby (on Rails) </b> and <b>Scala</b>, I leverage modern tools and methodologies to ensure top-quality software.
+  With an <b>MSc in Management (Distinction)</b> and full stack development training from <b>Le Wagon</b> and <b>Harvard CS50</b>, I combine a data-driven mindset with hands-on QA engineering expertise to bridge business strategy and technology.
 </p>
 
 <p align="left">
-  I am ISTQB certified (International Software Testing Qualifications Board), equipped with hands-on experience in automation frameworks like <b>Selenium</b>, behaviour-driven development (BDD) with <b>Cucumber</b>, performance testing with <b>Gatling</b>, functional testing with <b>Bruno</b>, and strong expertise in software testing best practices.
+  Previously, I led growth and partnership strategy at <b>IAG Loyalty (Avios Currency)</b>, expanding global airline alliances and delivering measurable results across corporate and digital initiatives.
 </p>
 
 ###
 
 <p align="left">
-  📍 Living and working in London 🇬🇧<br/>
+  📍 Based in London, UK 🇬🇧<br/>
   Formerly: Dublin 🇮🇪, Lisbon 🇵🇹, Sao Paulo 🇧🇷<br/><br/>
   🗣️ Fluent in English and Portuguese <br/><br/>
-  💻 QA Tools & Languages: Scala, Java, Selenium, Gatling, Cucumber, Bruno<br/>
-  👩‍💻 Others: Python, Ruby(on Rails), TypeScript/JavaScript, PostgreSQL, SQLite, HTML5/CSS3<br/>
-</p>
 
+###
+
+<h2 align="left">🧠 What I Do</h2>
+
+###
+
+<p align="left">
+  <b>Quality Engineering &amp; Automation:</b> Cypress, Selenium, Cucumber, Bruno, Gatling, CI/CD pipelines<br/>
+  <b>Programming &amp; Development:</b> Python, TypeScript, JavaScript, Ruby on Rails, SQL<br/>
+  <b>Frontend &amp; Design:</b> HTML5, CSS, TailwindCSS, Bootstrap, Figma<br/>
+  <b>Backend &amp; Infrastructure:</b> Ruby on Rails, Flask, PostgreSQL<br/>
+  <b>Business &amp; Data Tools:</b> Jira, Confluence, GitHub/GitLab, Swagger, Power Automate, Tableau
+</p>
+  
 ###
 
 <h2 align="left">🔨 Tools & Languages</h2>
@@ -39,10 +50,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -53,24 +60,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
 ###
 
-<h3 align="left">QA & Testing Tools</h3>
+<h3 align="left">QA &amp; Testing Tools</h3>
 
 ###
 
@@ -85,9 +88,6 @@
   <img width="12" />
   <img src="https://tecnovy.com/uploads/editor/images/board/istqb_logo_4k.webp" height="40" alt="istqb logo" />
 </div>
-
-
-
 
 ###
 
